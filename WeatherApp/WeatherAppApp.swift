@@ -8,5 +8,3 @@ struct WeatherAppApp: App {
         }
     }
 }
-
-

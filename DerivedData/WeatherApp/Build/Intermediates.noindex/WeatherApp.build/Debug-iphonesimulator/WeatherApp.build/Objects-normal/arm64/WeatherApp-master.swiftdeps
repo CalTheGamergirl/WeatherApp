@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
 options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
-build_start_time: [1659695448, 166594982]
-build_end_time: [1659695448, 494685173]
+build_start_time: [1659700347, 538822174]
+build_end_time: [1659700351, 649345874]
 inputs:
   "/Users/Cal/Documents/WeatherApp/WeatherApp/Components/WeatherRow.swift": [1659628941, 25247812]
   "/Users/Cal/Documents/WeatherApp/WeatherApp/Extensions.swift": [1659628941, 11643648]
@@ -12,4 +12,4 @@ inputs:
   "/Users/Cal/Documents/WeatherApp/WeatherApp/Views/LoadingView.swift": [1659628941, 60746669]
   "/Users/Cal/Documents/WeatherApp/WeatherApp/Views/WeatherView.swift": [1659631299, 803043127]
   "/Users/Cal/Documents/WeatherApp/WeatherApp/Views/WelcomeView.swift": [1659628941, 76463699]
-  "/Users/Cal/Documents/WeatherApp/WeatherApp/WeatherAppApp.swift": [1659695244, 88185310]
+  "/Users/Cal/Documents/WeatherApp/WeatherApp/WeatherAppApp.swift": [1659699473, 468874931]

@@ -21,7 +21,6 @@
 		2ED023E0289C21E8003C9B25 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ED023DD289C21E8003C9B25 /* ModelData.swift */; };
 		2ED023E1289C21E8003C9B25 /* weatherData.json in Resources */ = {isa = PBXBuildFile; fileRef = 2ED023DE289C21E8003C9B25 /* weatherData.json */; };
 		2ED023E3289C2584003C9B25 /* weatherassets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2ED023E2289C2584003C9B25 /* weatherassets.xcassets */; };
-		2ED3A3A5289D2A3C008E6C5D /* info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2ED3A3A4289D2A3C008E6C5D /* info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,7 +54,6 @@
 		2ED023DD289C21E8003C9B25 /* ModelData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		2ED023DE289C21E8003C9B25 /* weatherData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = weatherData.json; sourceTree = "<group>"; };
 		2ED023E2289C2584003C9B25 /* weatherassets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = weatherassets.xcassets; sourceTree = "<group>"; };
-		2ED3A3A4289D2A3C008E6C5D /* info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,7 +116,6 @@
 		22B002CC2756862C009EF4A2 /* WeatherApp */ = {
 			isa = PBXGroup;
 			children = (
-				2ED3A3A4289D2A3C008E6C5D /* info.plist */,
 				22B002CD2756862C009EF4A2 /* WeatherAppApp.swift */,
 				22401C922756C58D000305B0 /* Views */,
 				22401C8C2756C450000305B0 /* Managers */,
@@ -208,7 +205,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2ED3A3A5289D2A3C008E6C5D /* info.plist in Resources */,
 				2ED023E1289C21E8003C9B25 /* weatherData.json in Resources */,
 				2ED023E3289C2584003C9B25 /* weatherassets.xcassets in Resources */,
 				2ED023DF289C21E8003C9B25 /* Preview Assets.xcassets in Resources */,
@@ -368,10 +364,10 @@
 				DEVELOPMENT_TEAM = 286NXPZ8L9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = WeatherApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIRequiresFullScreen = NO;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -379,10 +375,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.3.7;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blogspot.com.calsgamingthoughts.app;
 				PRODUCT_NAME = "Weather App";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -402,10 +398,10 @@
 				DEVELOPMENT_TEAM = 286NXPZ8L9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = WeatherApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIRequiresFullScreen = NO;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -413,10 +409,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.3.7;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blogspot.com.calsgamingthoughts.app;
 				PRODUCT_NAME = "Weather App";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
