@@ -1,0 +1,16 @@
+{
+  "source": "/Users/Cal/Documents/WeatherApp/WeatherApp/Views/WelcomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Welcome to the Weather App"
+      },
+      {
+        "comment": "",
+        "key": "Please share your current location to get the weather in your area"
+      }
+    ]
+  },
+  "version": 1
+}

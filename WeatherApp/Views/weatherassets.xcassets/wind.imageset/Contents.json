@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "strong-wind-4387_c8fd6808-1d22-4097-855f-65a919c798c5.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "/Users/Cal/Documents/WeatherApp/WeatherApp/Views/WeatherView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Today, %@"
+      },
+      {
+        "comment": "",
+        "key": "%@"
+      },
+      {
+        "comment": "",
+        "key": "Current Weather"
+      }
+    ]
+  },
+  "version": 1
+}

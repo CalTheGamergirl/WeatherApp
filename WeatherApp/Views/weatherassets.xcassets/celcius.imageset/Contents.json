@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "celsius-4411_7fe305e9-76b7-4496-b19c-4dcace004c4a.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "fahrenheit-4410_47919a15-4b95-46dd-8c4d-336a98148e46.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

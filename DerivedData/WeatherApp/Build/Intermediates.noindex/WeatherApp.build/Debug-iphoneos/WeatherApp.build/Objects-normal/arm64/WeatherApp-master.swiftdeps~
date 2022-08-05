@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
+build_start_time: [1659629785, 963561058]
+build_end_time: [1659629786, 518815040]
+inputs:
+  "/Users/Cal/Documents/WeatherApp/WeatherApp/Components/WeatherRow.swift": [1659628941, 25247812]
+  "/Users/Cal/Documents/WeatherApp/WeatherApp/Extensions.swift": [1659628941, 11643648]
+  "/Users/Cal/Documents/WeatherApp/WeatherApp/Managers/LocationManager.swift": [1659628941, 42908430]
+  "/Users/Cal/Documents/WeatherApp/WeatherApp/Managers/WeatherManager.swift": [1659629777, 71170330]
+  "/Users/Cal/Documents/WeatherApp/WeatherApp/Preview Content/ModelData.swift": [1659523731, 683307409]
+  "/Users/Cal/Documents/WeatherApp/WeatherApp/Views/ContentView.swift": [1659628940, 989881038]
+  "/Users/Cal/Documents/WeatherApp/WeatherApp/Views/LoadingView.swift": [1659628941, 60746669]
+  "/Users/Cal/Documents/WeatherApp/WeatherApp/Views/WeatherView.swift": [1659628941, 83259582]
+  "/Users/Cal/Documents/WeatherApp/WeatherApp/Views/WelcomeView.swift": [1659628941, 76463699]
+  "/Users/Cal/Documents/WeatherApp/WeatherApp/WeatherAppApp.swift": [1659628941, 50017118]
